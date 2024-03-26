@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=wszgrcy&theme=onedark)](https://github.com/wszgrcy/github-profile-trophy)
 
 <div style="display:flex;gap:8px">
 <img src="https://github-readme-stats.vercel.app/api?username=wszgrcy&show_icons=true&theme=radical" />
@@ -15,3 +14,4 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+</div>
